@@ -125,7 +125,7 @@ The **Smart City Management System** is a robust C++ console application designe
 ### Main Menu
 <div align="center">
   
-![Main Menu](./screenshots/menu.png)
+![Main Menu](./screenshots/menu.png)<br>
 *Main Menu - Central hub for all system modules*
 
 </div>
@@ -141,7 +141,7 @@ The **Smart City Management System** is a robust C++ console application designe
 ### Medical Sector
 <div align="center">
   
-![Medical Menu](./screenshots/medical.png)
+![Medical Menu](./screenshots/medical.png)<br>
 *Medical Sector - Hospital and pharmacy management*
 
 </div>
@@ -149,7 +149,7 @@ The **Smart City Management System** is a robust C++ console application designe
 ### Transport Manager
 <div align="center">
   
-![Transport Menu](./screenshots/transport.png)
+![Transport Menu](./screenshots/transport.png)<br>
 *Transport Manager - Bus network and routing*
 
 </div>
@@ -157,7 +157,7 @@ The **Smart City Management System** is a robust C++ console application designe
 ### Population Reports
 <div align="center">
   
-![Population Reports](./screenshots/population.png)
+![Population Reports](./screenshots/population.png)<br>
 *Population Analytics - Demographic reports and heatmaps*
 
 </div>
@@ -165,7 +165,7 @@ The **Smart City Management System** is a robust C++ console application designe
 ### Cross-Module Queries
 <div align="center">
   
-![Cross-Module Queries](./screenshots/cross_module.png)
+![Cross-Module Queries](./screenshots/cross_module.png)<br>
 *Cross-Module Queries - Find nearest services and integrated queries*
 
 </div>
@@ -173,7 +173,7 @@ The **Smart City Management System** is a robust C++ console application designe
 ### System Statistics
 <div align="center">
   
-![System Statistics](./screenshots/statistics.png)
+![System Statistics](./screenshots/statistics.png)<br>
 *System Statistics - Module counts and performance metrics*
 
 </div>
@@ -181,7 +181,7 @@ The **Smart City Management System** is a robust C++ console application designe
 ### Data Management
 <div align="center">
   
-![Data Loading](./screenshots/data_loading.png)
+![Data Loading](./screenshots/data_loading.png)<br>
 *Data Management - CSV data loading and status*
 
 </div>
