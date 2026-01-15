@@ -1,0 +1,9 @@
+BusNo,Company,CurrentStop,SchoolID,MaxCapacity,Route
+SB101,SchoolTrans,Stop1,S01,20,Stop1 > Stop2 > Stop3 > Stop4 > Stop1
+SB102,SchoolTrans,Stop5,S01,20,Stop5 > Stop6 > Stop7 > Stop5
+SB201,EducationBus,Stop8,S02,20,Stop8 > Stop9 > Stop10 > Stop8
+SB202,EducationBus,Stop11,S02,20,Stop11 > Stop12 > Stop13 > Stop11
+SB301,AcademyFleet,Stop2,S03,20,Stop2 > Stop3 > Stop4 > Stop2
+SB401,SchoolWheels,Stop6,S04,20,Stop6 > Stop7 > Stop8 > Stop6
+SB501,SmartBus,Stop9,S05,20,Stop9 > Stop10 > Stop11 > Stop12 > Stop9
+

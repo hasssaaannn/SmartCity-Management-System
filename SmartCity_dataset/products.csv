@@ -1,0 +1,12 @@
+ProductID,MallID,ProductName,Category,Price
+PR001,M01,Samsung LED TV,Electronics,85000
+PR002,M01,Nike Shoes,Clothing,12500
+PR003,M02,Dell Laptop,Electronics,125000
+PR004,M02,Pizza Hut Meal,Food,1500
+PR005,M03,Gold Necklace,Jewelry,95000
+PR006,M03,Formal Shirt,Clothing,3500
+PR007,M04,Sofa Set,Furniture,75000
+PR008,M04,Dinner Set,Food,8500
+PR009,M05,Basmati Rice 5kg,Groceries,1800
+PR010,M05,Winter Jacket,Clothing,6500
+

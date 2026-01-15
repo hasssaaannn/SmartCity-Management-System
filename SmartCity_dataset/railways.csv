@@ -1,0 +1,8 @@
+StationID,Name,Code,City,Coordinates
+RLY01,Islamabad Railway Station,ISB-RLY,Islamabad,"33.684, 73.047"
+RLY02,Golra Railway Station,GOL-RLY,Islamabad,"33.700, 72.950"
+RLY03,I-9 Railway Station,I9-RLY,Islamabad,"33.680, 73.030"
+RLY04,Bharia Railway Station,BHR-RLY,Islamabad,"33.750, 73.100"
+RLY05,Zero Point Railway Station,ZP-RLY,Islamabad,"33.650, 73.080"
+RLY06,Blue Area Railway Station,BA-RLY,Islamabad,"33.720, 73.040"
+RLY07,F-7 Railway Station,F7-RLY,Islamabad,"33.710, 73.050"

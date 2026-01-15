@@ -1,0 +1,12 @@
+FacilityID,Name,Type,Sector,Coordinates
+F001,Faisal Mosque,Mosque,E-8,"33.729, 73.038"
+F002,Lal Masjid,Mosque,G-6,"33.720, 73.061"
+F003,F-9 Park,Park,F-9,"33.696, 73.029"
+F004,Lake View Park,Park,E-7,"33.719, 73.100"
+F005,Fatima Jinnah Park,Park,F-9,"33.706, 73.041"
+F006,Water Cooler G-10,Water Cooler,G-10,"33.684, 73.025"
+F007,Water Cooler F-8,Water Cooler,F-8,"33.709, 73.037"
+F008,Sector G-6 Masjid,Mosque,G-6,"33.720, 73.065"
+F009,Shakarparian Park,Park,G-6,"33.704, 73.069"
+F010,Water Cooler Blue Area,Water Cooler,Blue Area,"33.720, 73.065"
+
