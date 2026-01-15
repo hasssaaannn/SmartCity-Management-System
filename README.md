@@ -133,7 +133,7 @@ The **Smart City Management System** is a robust C++ console application designe
 ### Education Sector
 <div align="center">
   
-![Education Menu](./screenshots/education.png)
+![Education Menu](./screenshots/education.png)<br>
 *Education Sector - School management and search*
 
 </div>
